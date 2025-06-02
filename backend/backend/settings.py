@@ -12,7 +12,7 @@ ALLOWED_HOSTS = [
     '84.201.154.225',
     '127.0.0.1',
     'localhost',
-    'taskiyandex.hopto.org'
+    'taskiyandex.hopto.org',
 ]
 
 # Application definition
